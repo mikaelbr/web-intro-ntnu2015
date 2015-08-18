@@ -218,7 +218,7 @@ Nettleseren sender en spørring inn til en tjener ved å slå opp i et register 
 # Request
 
 ```
-curl -v http://www.vg.no | head -n 1|cut -d$' ' -f2
+curl -v http://www.vg.no
 ```
 
 ```
@@ -267,6 +267,31 @@ All den teknologien slik at vi kan se gif-er på nett.
 _Hypertext Transfer Protocol_
 
 Er en protokoll for å kommunisere mellom systemer.
+
+---
+# HTTP: Verb
+
+Verb: Definerer hva man ønsker å gjøre.
+
+```
+GET
+POST
+PUT
+DELETE
+...
+```
+---
+# HTTP: Statuskoder
+
+Statuskoder: Hva ble resultatet?
+
+```
+200 - OK
+404 - Not Found
+403 - Forbidden
+500 - Internal Server Error
+418 - I'm a teapot
+```
 
 ---
 class: middle center
