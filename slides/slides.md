@@ -33,6 +33,9 @@ class: middle center
 # Historisk Web
 
 ---
+background-image: url(assets/stevebuschemi.gif)
+
+---
 class: middle center
 
 ![Windows 95 Dail Up](assets/win95dialup.png)
