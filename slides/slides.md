@@ -135,12 +135,20 @@ Og VG kunne selvfølgelig ikke være noe dårligere og kjøpte opp Nettby, som e
 Vi var inne i en ny alder der det ble mer og mer populært å være sosial på nettet. Vi skulle ikke bare lese informasjon og dele informasjon, men vi skulle interagere med mennesker. I denne tiden begynte ting å bevege selv veldig raskt. Samtidig som sosiale medier ble født, fikk vi også underholdning i mye større grad.
 
 ---
+background-image: url(assets/janetjackson.jpg)
+
+
+???
+
+I 2004, gjorde Janet Jackson og Justin Timberlake et stort stunt på Super Bowl. Etter over å frustrere seg over at det ikke var mulig å finne videoen noe sted, bestemte Hurley, Chen og Karin seg for å lage YouTube.
+
+---
 background-image: url(assets/first-youtube.png)
 
 
 ???
 
-I 2004, gjorde Janet Jackson et stort stunt på Super Bowl, der hun eksponerte litt av sine private deler. Etter over å frustrere seg over at det ikke var mulig å finne videoen noe sted, bestemte Hurley, Chen og Karin seg for å lage YouTube. Først, skulle YouTube være en slags Online Dating side bare for videoer. Etterhvert muterte derimot Youtube til å bli mer likt det vi kjenner det som i dag.
+Først, skulle YouTube være en slags Online Dating side bare for videoer. Etterhvert muterte derimot Youtube til å bli mer likt det vi kjenner det som i dag.
 
 ---
 background-image: url(assets/second-youtube.png)
